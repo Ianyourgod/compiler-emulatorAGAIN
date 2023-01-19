@@ -35,6 +35,7 @@ class Emulator:
         for i in printing:
             print("|" + i + "|")
         print("-" * 64)
+    
 
 
 em = Emulator()
